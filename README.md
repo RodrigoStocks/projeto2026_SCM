@@ -5,5 +5,5 @@ Trabalho desenvolvido para a disciplina de Projeto de Software.
 ## Descrição
 Apenas para trabalho.
 
-## Como Executar
+## Observações extras
 Git no computador pessoal.
